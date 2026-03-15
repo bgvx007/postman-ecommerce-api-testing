@@ -21,7 +21,7 @@ API test collection for e-commerce endpoints using DummyJSON.
    npm install -g newman-reporter-htmlextra
 
 2. Run collection
-   newman run "E-Commerce Mini.postman_collection.json" -e "DummyJSON.postman_environment.json" -r htmlextra
+   newman run "E-Commerce Mini (DummyJSON).postman_collection.json" -e "DummyJSON.postman_environment.json" -r htmlextra
 
 ## Test Results
 - Total Requests: 31
